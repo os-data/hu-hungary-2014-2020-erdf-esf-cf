@@ -326,7 +326,7 @@
       "hash": "2acf3eb76e3b2411fad6acdf4cca145e",
       "mediatype": "text/csv",
       "name": "concat",
-      "path": "https://storage.openspending.org/concat.csv",
+      "path": "https://storage.openspending.org/hu-hungary-2014-2020-erdf-esf-cf/concat.csv",
       "schema": {
         "fields": [
           {
