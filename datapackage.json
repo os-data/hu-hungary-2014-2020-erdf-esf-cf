@@ -19,6 +19,11 @@
     "nuts_code": "HU",
     "region": "MAGYARORSZ\u00c1G"
   },
+  "countryCode": "HU",
+  "fiscalPeriod": {
+    "start": "2014-01-01",
+    "stop": "2020-12-31"
+  },
   "hash": "794843315676cf3537a3081d930f4544",
   "language": "hu",
   "model": {
